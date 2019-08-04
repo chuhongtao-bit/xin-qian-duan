@@ -2,7 +2,7 @@
       <div class="login-wrap" :style="divimg">
 
       <div>
-         <p class="p-title">LCG我爱编码,666666</p>
+         <p class="p-title">LCG我爱编码,666666999999</p>
       </div>
         <div class="ms-login">
           <div class="ms-title">
